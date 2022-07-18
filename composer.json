@@ -38,6 +38,7 @@
         "psr-4": {
             "ManoManoTech\\CorrelationIdGuzzle\\Tests\\": "tests/"
         }
-    }
+    },
+    "abandoned": "not maintained any more"
 }
 
